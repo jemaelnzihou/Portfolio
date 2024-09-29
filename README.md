@@ -1,4 +1,4 @@
-# Jemael Nzihou - Data Science PhD Candidate
+# Jemael Nzihou - Data Scientist 
 
 Welcome to my GitHub portfolio! I am a passionate data science researcher with a diverse background spanning chemical engineering, 
 chemistry, and applied business analytics. My expertise lies in leveraging data-driven techniques
