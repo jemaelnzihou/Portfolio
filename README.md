@@ -43,7 +43,8 @@ Machine learning and AI applications in manufacturing and defense sectors.
 Data-driven decision-making in business and technology.
 Process optimization and predictive analytics in engineering systems.
 Statistical methods for quality control and assurance.
-🔧 Skills & Tools
+
+ 🔧 Skills & Tools
 Programming: R, Python, SQL, MATLAB
 Data Visualization: Tableau, Power BI, ggplot2
 Machine Learning: Scikit-learn, TensorFlow, Keras
@@ -55,4 +56,5 @@ Feel free to explore my repositories, where I share projects on data science app
 Contact Information
 
 [LinkedIn](https://www.linkedin.com/in/jemaelnzihou/)
+
 Email
