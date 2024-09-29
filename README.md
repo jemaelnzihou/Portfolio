@@ -75,7 +75,7 @@ to solve complex problems across industries, from defense contracting to electro
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
   
 - **Database Management:** MySQL, PostgreSQL
-- 
+  
 - **Statistical Analysis:** SPSS, SAS, Minitab
   
 - **Web Analytics:** Google Analytics, Google Tag Manager
