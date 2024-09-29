@@ -35,13 +35,17 @@ Managed quality control processes for defense contracting projects.
 Applied statistical analysis to improve procurement and production standards.
 
  🎖 Certifications
+ 
 Advanced Google Analytics Specialization
+
 Expertise in web analytics, performance metrics, and digital marketing data analysis.
 
 Business Intelligence Specialization
+
 Knowledge of BI tools, reporting, and dashboard creation for strategic decision-making.
 
 Black Belt Lean Six Sigma
+
 Skilled in process improvement, operational efficiency, and waste reduction using Lean Six Sigma principles.
 
 Quality Champion Expert
