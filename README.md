@@ -61,10 +61,15 @@ Statistical methods for quality control and assurance.
  🔧 Skills & Tools
  
 Programming: R, Python, SQL, MATLAB
+
 Data Visualization: Tableau, Power BI, ggplot2
+
 Machine Learning: Scikit-learn, TensorFlow, Keras
+
 Database Management: MySQL, PostgreSQL
+
 Statistical Analysis: SPSS, SAS, Minitab
+
 Web Analytics: Google Analytics, Google Tag Manager
 
 Feel free to explore my repositories, where I share projects on data science applications, machine learning models, and insights from my cross-disciplinary background.
@@ -73,4 +78,4 @@ Contact Information
 
 [LinkedIn](https://www.linkedin.com/in/jemaelnzihou/)
 
-Email
+[Email](mailto:jemaelnzihou@.gmail.com)
